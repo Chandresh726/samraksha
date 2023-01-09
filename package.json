@@ -13,8 +13,7 @@
   },
   "devDependencies": {},
   "scripts": {
-    "start": "node index.js",
-    "build": "npm install && npm build"
+    "start": "node index.js"
   },
   "author": "",
   "license": "ISC"
